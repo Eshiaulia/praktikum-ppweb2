@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Form Belanja</title>
+    <title>Form Belanja Bulanann</title>
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css">
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
 
@@ -38,7 +38,7 @@
             <hr />
         </div>
         <div class="col-12 col-md-8 align-middle">
-            <form method="POST" action="form_belanja_get.php"> 
+            <form method="POST" action="form_TugasBelanja_get.php"> 
                 <div class="form-group row text-end mt-3">
                     <label for="nama" class="col-4 col-form-label font-weight-bold text-right">Customer</label>
                     <div class="col-6">
